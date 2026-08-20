@@ -2,4 +2,4 @@
 This is the repo for the CSUEB art course, 356. This repo will contain student code for education in regards to UI/UX.
 
 ## Checout the Journal Entries:
-[Journal](Journal Entries/Journal 1.md)
+[Journal](JournalEntries/Journal1.md)
