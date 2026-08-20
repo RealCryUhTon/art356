@@ -1,3 +1,5 @@
+# 8/20/2026
+
 ## Summary
 **Learning** basic *syntax* and elements of "Markdown".
 Like adding images!\
