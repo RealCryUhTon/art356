@@ -4,7 +4,7 @@
 ## Summary
 **Learning** basic *syntax* and elements of "Markdown".
 Like adding images!\
-![Markdown coding language logo](https://serokell.io/files/pm/pmzzkh71.Markdown_markup_language_pic1.jpg)\
+![Markdown coding language logo](https://serokell.io/files/pm/pmzzkh71.Markdown_markup_language_pic1.jpg)
 
 ## Expanded
 We setup a github account and learned the basics of Markdown. 
