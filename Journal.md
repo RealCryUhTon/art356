@@ -4,8 +4,7 @@
 ## Summary
 **Learning** basic *syntax* and elements of "Markdown".
 Like adding images!\
-![Markdown coding language logo](<img width="1133" height="680" alt="image" src="https://github.com/user-attachments/assets/77c786ee-48d9-4c91-a8d8-8b171939dbd2" />
-) \
+![Markdown coding language logo](<https://serokell.io/files/pm/pmzzkh71.Markdown_markup_language_pic1.jpg)\
 
 ## Expanded
 We setup a github account and learned the basics of Markdown. 
