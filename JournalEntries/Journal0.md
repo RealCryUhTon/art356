@@ -1,4 +1,4 @@
-# [NEXT](././)
+# [NEXT](./Journal1.md)
 
 ## Summary
 ### MD Syntax
