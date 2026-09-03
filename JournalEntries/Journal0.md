@@ -1,4 +1,4 @@
-# [NEXT](./)
+# [NEXT](././)
 
 ## Summary
 ### MD Syntax
