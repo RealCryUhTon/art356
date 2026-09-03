@@ -1,4 +1,4 @@
-# [NEXT](./Journal2.md) | [BACK](./Journal0.md)
+# [BACK](./Journal0.md) | [NEXT](./Journal2.md)
 ## Chapter 1 Highlights
 
 # Focus on the Problem
