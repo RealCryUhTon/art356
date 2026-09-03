@@ -1,5 +1,4 @@
-## Chapter 1
-You're tasked to reference at least 2 topic areas from the chapter and directly respond to them. You must cite these references by actual page number, not the pdf #. Ex. Which topic(s) did you find the most interesting? Perhaps a personal experience relative to the chapter's examples? Do you agree or disagree with some of the topic(s)? Or was this too confusing, if so where and what parts?
+## Chapter 1 Highlights
 
 # Focus on the Problem
 >_"Designers need to focus their attention on the cases where things go wrong, not just on when things work as planned. Actually, this is where the most satisfaction can arise:_
