@@ -14,3 +14,5 @@ Learned basic syntax and functions of p5js. Created basic shapes and experimente
 We setup a github account and learned the basics of Markdown.
 We talked about setting up folders, using github to host project journals, and the general usage of this software.
 We learned about p5js syntax, functions, where to go for tutorials, and learned about thinking of the webpage as a grid.
+
+# [NEXT](./Journal1.md)
