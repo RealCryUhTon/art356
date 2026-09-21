@@ -11,7 +11,7 @@ The entire Seven Stages of Action section was an interesting read. It is a thoug
 # Human Cognition and Emotion
 >_"For designers, the most critical aspect of the behavioral level is that every action is associated with an expectation." Ch.2, pg.52_
 
-![PS3 Controller]([https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQog17Cx5QkFoP9zbgPw008HqZqwQQS4GkJnEZw_UjjiZLeUUkdUizbgpD&s=10](https://i5.walmartimages.com/asr/ec6aff92-015d-41cb-b4bc-96c11a681673.d27f2dd2b79643ba2df7c698090390e6.jpeg))
+![PS3 Controller](https://i5.walmartimages.com/seo/For-SONY-PS3-Controller-Support-Bluetooth-Wireless-Gamepad-for-Play-Station-3-Joystick-Console-for-PS3-Controle-For-PC-Black-New_910e8f52-07f4-444b-8387-796d2ae5564b.a24bec4b6fe79f76cf682f12127a5b8d.png)
 
 Affordance and signals is a very important principle when talking about design. An object or system is only as good as the user knows how to use  it. If there is no indication of what an object might be capable of, or documentation of what a system offers and how to properly use it, it can render objects, functions, and sometimes entire products useless. For myself, I instantly thought of the small pocket in jeans. To this day, no one really knows what it is used for! You _can_ put pocket change in there, but there are much better alternatives that most people carry around everyday (usually inside their bigger pockets!). As far as design goes, there is no strong perceivable signifier as to what this pocket affords a user. Naturally, most do not use this small pocket at all. This tiny pocket is rendered useless in most people's lives, all because there is no easy-to-see signal of what it should be used for.
 
