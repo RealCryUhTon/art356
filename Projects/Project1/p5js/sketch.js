@@ -17,6 +17,8 @@ let pointT = 'Bet on Point';
 let passT = 'Bet on Pass';
 let rollT = 'Roll';
 let preRollT = 'Place a Bet First';
+let pointVT = 'Point Line: ';
+let diceVT = 'Rolled: ';
 
 //init dice values
 let canRoll = true;
@@ -25,6 +27,9 @@ let diceVal = 0;
 let pointSet = false;
 let pointVal = 0;
 let pointTry = 3;
+
+//set game desc text
+let gameDesc = "HANDBOOK:\n\n7 - Win | x3 Multiplier\n11 - Win | x3 Multiplier\n\n2 - Loss\n3 - Loss\n12 - Loss\n\n4 - Set Point Line\n5 - Set Point Line\n6 - Set Point Line\n8 - Set Point Line\n9 - Set Point Line\n10 - Set Point Line";
 
 //---------------------------------------------------COMMON METHODS
 
@@ -310,10 +315,16 @@ function loseChips(x){
   }
 }
 
+//update maxWonChips
+function updateMaxWon(x){
+  maxWonChips = x + maxWonChips;
+}
+
 //try to award player chips based on arg
 function winChips(x){
     if(x && x > 0){
     currentChips = currentChips + x;
+    updateMaxWon(x);
     canRoll = true;
   }
 }
@@ -451,6 +462,7 @@ function betChips(x){
             console.log('OUT OF TRIES');
             pointSet = false;
             resetPointTry();
+            pointVal = 0;
           }
           canRoll = true;
           break;
@@ -460,6 +472,7 @@ function betChips(x){
         console.log("7-OUT LOSS");
         pointSet = false;
         resetPointTry();
+        pointVal = 0;
         canRoll = true;
         break;
 
@@ -472,6 +485,7 @@ function betChips(x){
     }else{//do if pointTry is 0
       pointSet = false;
       resetPointTry();
+      pointVal = 0;
       canRoll = true;
       return;
     }
@@ -483,12 +497,14 @@ function betChips(x){
   console.log("Point Value: " + pointVal)
 }
 
-
+function getPointHandbook() {
+  return `HANDBOOK:\n\n${pointVal} - Win | x2 Multiplier\n\n7 - Loss\n\n${pointTry} Tries Left!`;
+}
 
 //-------------------------------------------------------APP INITIAL RENDER
 
 function setup() {
-  createCanvas(windowWidth, windowHeight);
+  createCanvas(800, 600);
 
   //creat slider, style, and set max to baseChips
   betSlider = createSlider(1, 1000, 1, 5);
@@ -525,9 +541,35 @@ function draw() {
   //draw Betting Amount
   drawText(betSlider.value(), 22, 'black', width/ 20, height / 1.1);
 
+  //draw point value
+  drawText(pointVT, 22, 'black', width / 3, height / 15);
+  drawText(pointVal, 22, 'yellow', width / 2.1, height / 15)
+
+  //draw Rolled value
+  drawText(diceVT, 22, 'black', width/3, height / 8);
+  drawText(diceVal, 22, 'white', width/2.325, height/8);
+
   //draw dice
   drawDice(diceVal);
+
+  //draw game description
+  if (!pointSet) {
+    drawText(gameDesc, 16, 'black', width / 1.5, height / 5);
+  } else {
+    drawText(getPointHandbook(), 16, 'black', width / 1.5, height / 5);
+  }
   
 }
 
 //---------------------------------------------------------AFTER TICK
+
+
+function getGameDesc(){
+  let out = '';
+  if(pointSet == false){
+    out = gameDesc;
+  }else{
+    out = gameDescP;
+  }
+  return out;
+}
