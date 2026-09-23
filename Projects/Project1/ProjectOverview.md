@@ -4,4 +4,4 @@
 
 # Checkout the Wireframe Below!
 
-![wireframe](https://drive.google.com/file/d/1FcmnbUQ7C0OqV-BI0gtKvEtb4VDje2gn/view?usp=sharing)
+![wireframe](https://imgur.com/a/jo5AVng)
