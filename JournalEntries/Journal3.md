@@ -5,7 +5,7 @@
 >_"Constraints are powerful clues, limiting the set of possible actions.
 >The thoughtful use of constraints in design lets people readily determine the proper course of action, even in a novel situation.." - Ch.4, pg.125_
 
-![IDEAL Paper Cutter]([https://cdn.prod.website-files.com/69b40ac1991ba644da780c5a/6a33e9b3bbac13f4aa073691_smartphone-history-when-were-smartphones-invented_1.webp](https://media.exapro.com/product/2026/06/P2606091508/dc3bac0b5f3a987e30dd48b0c6efce35/bindery-cutting-paper-cutters-ideal-krug-priester-5221-05-ep-digicut-p2606091508_4.jpeg))
+![IDEAL Paper Cutter](https://media.exapro.com/product/2026/06/P2606091508/dc3bac0b5f3a987e30dd48b0c6efce35/bindery-cutting-paper-cutters-ideal-krug-priester-5221-05-ep-digicut-p2606091508_4.jpeg)
 
 Constraints can often times be a better indicator of what one is able to do in regards to interaction, when compared to labels and affordances. For example, this clause made me think of a _Krieg and Priester IDEAL Paper Cutter_ the CSUEB Art & Education building contains. In the Maker Space, this machine is a perfect example of constraints giving powerful clues to its use. The paper cutter is an industrial level machine, with sharp blades and powerful rotors to make clean precise cuts. The first time I ever used this machine, I didn't know how it worked. Thus, I had to use my previous mental knowledge, and world-knowledge to figure out the machine. The key constraint and helped lead me to its successful use was the fact that the product will never cut, unless you press two red buttons on the outside of the cutting zone, with the plastic cover in the down position.
 
