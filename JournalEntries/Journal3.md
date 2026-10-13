@@ -3,7 +3,7 @@
 
 # Seven Stages of Action
 >_"Constraints are powerful clues, limiting the set of possible actions.
->The thoughtful use of constraints in design lets people readily determine the proper course of action, even in a novel situation.." - Ch.4, pg.125_
+>The thoughtful use of constraints in design lets people readily determine the proper course of action, even in a novel situation." - Ch.4, pg.125_
 
 ![IDEAL Paper Cutter](https://media.exapro.com/product/2026/06/P2606091508/dc3bac0b5f3a987e30dd48b0c6efce35/bindery-cutting-paper-cutters-ideal-krug-priester-5221-05-ep-digicut-p2606091508_4.jpeg)
 
@@ -12,8 +12,8 @@ Constraints can often times be a better indicator of what one is able to do in r
 # Human Cognition and Emotion
 >_"A related but wrong approach is to be device-centered rather than activity-centered [...] Activity-centered controls anticipate [need] [...]" Ch.4, pg.140_
 
-![PS3 Controller](https://i5.walmartimages.com/seo/For-SONY-PS3-Controller-Support-Bluetooth-Wireless-Gamepad-for-Play-Station-3-Joystick-Console-for-PS3-Controle-For-PC-Black-New_910e8f52-07f4-444b-8387-796d2ae5564b.a24bec4b6fe79f76cf682f12127a5b8d.png)
+![CSUEB Presenting Station](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY5Bgv-O7_f7Lzjr3roOwRim4HdM9TMR-s2PtLN_sLBQ&s=10)
 
-This clause made me think of game controllers for video game consoles. Every button on a game controller is associated with an action. Even though games differ, the framework by which games map out the controller's actions, and the buttons that execute those actions, are largely standardized. For example, the bottom button on the right-side button pad (commonly "X" or "A") is largely used to jump in video games. Thus, most players uphold the expectation that the this button is used to jump in video games. Players that experience a game with a different mapping for jumping, say on the top button (commonly "▲" or "Y") will get confused. The game's controls will become unintuitive. Even with labels and signals disclosing what button executes what action, an unfamiliar mapping could cause players friction when playing the game, and could lead to them never playing again!
+This clause, and the portion of the text it is extracted from, made me relate this principle to the CSUEB presenting setups in every classroom on campus! The author related this principle to their own experience of needing to adjust lighting mid-discussion, and it causing an awkward break in the presentation's flow. Likewise, on multiple occasions professors of mine have needed to adjust lighting either for the projection, or to set the mood for the current portion of study. The same awkward break in flow occurred because their station was not setup to adjust the room's lighting. Conversely, they are able to switch display ports, adjust volume, projection settings, and what device the projector pulls from.
 
 # [BACK](./Journal2.md) | [NEXT](./Journal4.md)
