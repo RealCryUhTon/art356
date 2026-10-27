@@ -1,13 +1,12 @@
 # [BACK](./Journal3.md) | [NEXT](./Journal5.md)
 ## Chapter 4 Highlights PART 2
 
-# Seven Stages of Action
->_"Constraints are powerful clues, limiting the set of possible actions.
->The thoughtful use of constraints in design lets people readily determine the proper course of action, even in a novel situation." - Ch.4, pg.125_
+# Forcing Functions
+>_"[...] a lockout [...] prevents an event from occurring." - Ch.4, pg.144_
 
-![IDEAL Paper Cutter](https://media.exapro.com/product/2026/06/P2606091508/dc3bac0b5f3a987e30dd48b0c6efce35/bindery-cutting-paper-cutters-ideal-krug-priester-5221-05-ep-digicut-p2606091508_4.jpeg)
+![Ransomware Image](https://www.pbs.org/newshour/app/uploads/2017/05/RTX35YNS-1024x765.jpg)
 
-Constraints can often times be a better indicator of what one is able to do in regards to interaction, when compared to labels and affordances. For example, this clause made me think of a _Krieg and Priester IDEAL Paper Cutter_ the CSUEB Art & Education building contains. In the Maker Space, this machine is a perfect example of constraints giving powerful clues to its use. The paper cutter is an industrial level machine, with sharp blades and powerful rotors to make clean precise cuts. The first time I ever used this machine, I didn't know how it worked. Thus, I had to use my previous mental knowledge, and world-knowledge to figure out the machine. The key constraint and helped lead me to its successful use was the fact that the product will never cut, unless you press two red buttons on the outside of the cutting zone, with the plastic cover in the down position. Specifically, the buttons used to activate the cutting are not just outside the cutting zone, they are each on the side of the machine. Alongside the red color, it is very intuitive to learn that those buttons mean cut, and due to the red coloring that what is happening could be dangerous. Mixed with the  "ON" and "OFF" labels, switches and dials, I feel this machine is perfectly relates to the clause above.
+When reading about forced functions and how Norman applied the theory of lock-ins and lock-outs to the software world, noting how companies will intentionally make an ecosystem that _only_ works with the respective company's products, it made me think about computer viruses. Specifically, I thought about Ransomware. Ransomware is a type of computer virus that usually forces one's files on their machine to become encrypted, and prevents normal use of their system until a monetary number has been paid to a specified address. Not all ransomware are money-based and not all of them encrypt files (some require users to play a certain game everyday). This piece of malicious software is a key example of forcing a function. Users _must_ do an action to continue using their machine, if they do not, they fail to recover their information. Furthermore, even if a user does not pay, it still forces them to do one or more actions. For example, run a virus scan, restart the computer (don't recommend this one), load a fresh version of their OS, take the infected machine to a repair shop, etc... 
 
 # Human Cognition and Emotion
 >_"A related but wrong approach is to be device-centered rather than activity-centered [...] Activity-centered controls anticipate [need] [...]" Ch.4, pg.140_
