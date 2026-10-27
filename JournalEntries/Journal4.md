@@ -13,6 +13,6 @@ When reading about forced functions and how Norman applied the theory of lock-in
 
 ![QWERTY Keyboard](https://upload.wikimedia.org/wikipedia/commons/0/0a/QWERTY_keyboard.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original)
 
-This clause, and the portion of the text it is extracted from, made me relate this principle to the CSUEB presenting setups in every classroom on campus! The author related this principle to their own experience of needing to adjust lighting mid-discussion, and it causing an awkward break in the presentation's flow. Likewise, on multiple occasions professors of mine have needed to adjust lighting either for the projection, or to set the mood for the current portion of study. The same awkward break in flow occurred because their station was not setup to adjust the room's lighting. Conversely, they are able to switch display ports, adjust volume, projection settings, and what device the projector pulls from.
+This clause made me think of the popular QWERTY keyboard layout. Almost every keyboard starts with these characters. Although this journal does not research the truthfulness of the claim, it has been said that this layout was specifically made for the type-writing era to slow down users and cause less mechanical jams. This layout is inefficient, but, has been widely adopted. 
 
 # [BACK](./Journal3.md) | [NEXT](./Journal5.md)
