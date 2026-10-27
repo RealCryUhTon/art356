@@ -1,5 +1,5 @@
 # [BACK](./Journal2.md) | [NEXT](./Journal4.md)
-## Chapter 4 Highlights
+## Chapter 4 Highlights PART 1
 
 # Seven Stages of Action
 >_"Constraints are powerful clues, limiting the set of possible actions.
