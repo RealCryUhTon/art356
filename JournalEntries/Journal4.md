@@ -13,6 +13,6 @@ When reading about forced functions and how Norman applied the theory of lock-in
 
 ![QWERTY Keyboard](https://upload.wikimedia.org/wikipedia/commons/0/0a/QWERTY_keyboard.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original)
 
-This clause made me think of the popular QWERTY keyboard layout. Almost every keyboard starts with these characters. Although this journal does not research the truthfulness of the claim, it has been said that this layout was specifically made for the type-writing era to slow down users and cause less mechanical jams. This layout is inefficient, but, has been widely adopted. 
+This clause made me think of the popular QWERTY keyboard layout. Almost every keyboard (atleast in English) starts with these characters. Although this journal does not research the truthfulness of the following claim, it has been said that this layout was specifically made for the type-writing era to slow down users and cause less mechanical jams. Since then, this layout has proven inefficient. Yet, this layout has been widely adopted and more-or-less standardized. The adoption of this layout serves as an obstacle for newer innovations, and for future development to be adopted easily must use this mental model as a basis. Without using the QWERTY layout as a framework for new keyboards or typing hardware, the adoption will be much harder for individuals. 
 
 # [BACK](./Journal3.md) | [NEXT](./Journal5.md)
