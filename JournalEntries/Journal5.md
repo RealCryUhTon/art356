@@ -1,7 +1,6 @@
 # [BACK](./Journal4.md)
 
-# Critical Design In Context
-## Chapter 4 Highlights
+## Critical Design In Context Highlights
 
 # Concept
 >_"[...] a lockout [...] prevents an event from occurring." - Ch.4, pg.144_
